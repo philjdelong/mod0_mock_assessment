@@ -1,0 +1,47 @@
+Making a Sandwich
+1. Prepare ingredients
+  1.1 bread
+    1.1.1 bottom bun
+    1.1.2 top bun
+  1.2 meat
+    1.2.1 turkey
+      1.2.1.1 three to five slices
+  1.3 lettuce
+    1.3.1 romaine
+      1.3.1.1 one leaf
+  1.4 tomato
+    1.4.1 vine-grown
+    1.4.2 slice into circular sections
+      1.4.2.1 one or two slices
+  1.5 onion
+    1.5.1 white onion
+    1.5.2 slice into circular sections
+      1.5.2.1 three to five slivers
+  1.6 mustard
+    1.6.1 yellow mustard
+    1.6.2 enough to spread full layer on bottom bun
+  1.7 cheese
+    1.7.1 cheddar
+    1.7.2 one or two slices
+2. Prepare utensils
+  2.1 plate
+  2.2 knife
+  2.3 napkin
+3. Put the ingredients together
+  3.1 bottom bun
+    3.1.1 place bottom bun onto the plate
+  3.2 mustard
+    3.2.1 use knife to apply mustard to one side of bottom bun
+  3.3 meat
+    3.3.1 stack on top of bottom bun with mustard side
+  3.4 lettuce
+    3.4.1 stack on top of meat
+  3.5 tomato
+    3.5.1 stack on top of lettuce
+  3.6 onion
+    3.6.1 stack on top of tomato
+  3.7 cheese
+    3.7.1 stack on top of onion
+4. Cut the sandwich
+  4.1 use the knife to cut sandwich in half diagonally
+5. Place napkin under plate
