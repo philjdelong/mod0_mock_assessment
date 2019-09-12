@@ -1,6 +1,8 @@
 Object: Child
 
 Attribute(5):
+  - string, integer, boolean, array
 
 Method(4):
   - _either change an attribute or utilize a calculation to change an attribute_
+  - noun
