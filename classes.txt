@@ -9,10 +9,9 @@ Attribute:
 - totalHealth (integer)
 - currentAge (integer)
 - birthday (string)
-- favoriteClass (string)
+- favoriteClass (array)
 - currentClass (string)
 - enjoyClass (boolean)
-- favoriteClasses (array)
 
 Method:
 - study (decrease currentEnergy by 1, increase currentIntelligence by 2)
