@@ -1,14 +1,65 @@
 Object: Phil
 
-currentEnergy = 95/100
+Attributes:
+currentEnergy = 50/100
 currentIntelligence = 10/100
-currentHealth = 80/100
-currentAge = 29
-birthday = 'March 19'
+currentHealth = 50/100
 favoriteClass = ['Math', 'Science', 'English']
 leastFavoriteClass = ['History', 'Accounting', 'PoliSci']
 currentClass = 'Science'
 enjoyClass = true
 lunchBox = ['apple', 'Cheetos', 'yogurt']
+currentAge = 29
+birthday = 'March 19'
+currentDate = 'March 19'
 
-#Define attributes
+#Define current attributes within methods
+
+Methods:
+1. goToClass ('Science' = currentEnergy(50) -1, currentIntelligence(10) +2)
+2. study (currentEnergy(49) -1, currentIntelligence(12) +2)
+3. playOutside (currentEnergy(48) -2, currentHealth(50) +3)
+4. eatSnack ([Cheetos] currentEnergy(46) +3, currentHealth(53) -1)
+5. haveBirthday ('March 19' = currentAge(29) +1)
+6. goToBed (currentEnergy(49) +25)
+
+#Update current attributes
+
+Attributes:
+currentEnergy = 74/100
+currentIntelligence = 15/100
+currentHealth = 52/100
+currentAge = 30
+
+Object: Courtney
+
+Attributes:
+currentEnergy = 25/100
+currentIntelligence = 97/100
+currentHealth = 65/100
+favoriteClass = ['Health', 'History', 'PoliSci']
+leastFavoriteClass = ['Accounting', 'Math', 'Science']
+currentClass = 'Science'
+enjoyClass = false
+lunchBox = ['apple', 'Cheetos', 'yogurt']
+currentAge = 27
+birthday = 'November 19'
+currentDate = 'March 19'
+
+#Define current attributes within methods
+
+Methods:
+1. goToClass ('Science' = currentEnergy(25) -3, currentIntelligence(97) +1)
+2. study (currentEnergy(22) -1, currentIntelligence(98) +2)
+3. playOutside (currentEnergy(21) -2, currentHealth(65) +3)
+4. eatSnack ([yogurt] currentEnergy(19) +1, currentHealth(68) +1)
+5. graduate (currentIntelligence = 100)
+6. goToBed (currentEnergy(20) +25)
+
+#Update current attributes
+
+Attributes:
+currentEnergy = 45/100
+currentIntelligence = 100/100
+currentHealth = 69/100
+currentAge = 27
