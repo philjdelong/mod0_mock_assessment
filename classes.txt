@@ -1,8 +1,21 @@
 Object: Child
 
-Attribute(5):
-  - string, integer, boolean, array
+Attribute(5): [string, integer, boolean, array]
+- currentEnergy (integer)
+- totalEnergy (integer)
+- currentIntelligence (integer)
+- currentHealth (integer)
+- totalHealth (integer)
+- currentAge (integer)
+- birthday (string)
+- favoriteClass (string)
+- havingFun (boolean)
+- classes (array)
 
-Method(4):
-  - _either change an attribute or utilize a calculation to change an attribute_
-  - noun
+Method(4): [noun]-[change attribute or utilize calculation to change attribute]
+- study (decrease currentEnergy by 1, increase currentIntelligence by 2)
+- playOutside (
+- haveBirthday (
+- eatHealthySnack (
+- eatJunkFood (
+- goToClass (
