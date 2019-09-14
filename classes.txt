@@ -1,21 +1,26 @@
 Object: Child
 
-Attribute(5): [string, integer, boolean, array]
+Attribute:
 - currentEnergy (integer)
 - totalEnergy (integer)
 - currentIntelligence (integer)
+- totalIntelligence (integer)
 - currentHealth (integer)
 - totalHealth (integer)
 - currentAge (integer)
 - birthday (string)
 - favoriteClass (string)
-- havingFun (boolean)
-- classes (array)
+- currentClass (string)
+- enjoyClass (boolean)
+- favoriteClasses (array)
 
-Method(4): [noun]-[change attribute or utilize calculation to change attribute]
+Method:
 - study (decrease currentEnergy by 1, increase currentIntelligence by 2)
-- playOutside (
-- haveBirthday (
-- eatHealthySnack (
-- eatJunkFood (
-- goToClass (
+- playOutside (decrease currentEnergy by 2, increase currentHealth
+- haveBirthday ('birthday' will increase age by 1)
+- eatHealthySnack (increase currentEnergy by 1, increase currentHealth by 1)
+- eatJunkFood (increase currentEnergy by 3, decrease currentHealth by 1)
+- goToClass ('currentClass' = [if enjoyClass[favoriteClass] = true, increase currentEnergy by 1, increase currentIntelligence by 2][if enjoyClass[favoriteClass] = false, decrease currentEnergy by 1, increase currentIntelligence by 1]
+- graduate (totalIntelligence = 100)
+- goToBed (totalEnergy = 0)
+- goToDoctor (totalHealth = 0)
