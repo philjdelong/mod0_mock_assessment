@@ -18,8 +18,8 @@ Attribute:
 Method:
 - goToClass ('currentClass' = [if enjoyClass[favoriteClass] = true, increase currentEnergy by 1, increase currentIntelligence by [classRank]][if enjoyClass[leastFavoriteClass] = false, decrease currentEnergy by [classRank], increase currentIntelligence by 1])
 - study (decrease currentEnergy by 1, increase currentIntelligence by 2)
-- playOutside (decrease currentEnergy by 2, increase currentHealth)
-- eatSnack ([healthySnack]increase currentEnergy by 1, increase currentHealth by 1)([junkFood]increase currentEnergy by 3, decrease currentHealth by 1)
+- playOutside (decrease currentEnergy by 2, increase currentHealth by 3)
+- eatSnack ([healthySnack]increase currentEnergy by 1, increase currentHealth by 2)([junkFood]increase currentEnergy by 3, decrease currentHealth by 1)
 - graduate (totalIntelligence = 100)
 - goToBed (totalEnergy = 0)
 - goToDoctor (totalHealth = 0)
